@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 131,
-      "end_time": 153,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I was always an unusual girl. My mother told me that I had a chameleon soul. No moral compass pointing due north. No fixed personality. Just an inner indecisiveness that was as wide and wavering as the ocean. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Monologue"
-        }
-      ],
-      "uuid": "0d0030e7-8823-4ed4-a2b4-c6a7ebef8113"
-    },
-    {
       "start_time": 156,
       "end_time": 161,
       "annotation": [
