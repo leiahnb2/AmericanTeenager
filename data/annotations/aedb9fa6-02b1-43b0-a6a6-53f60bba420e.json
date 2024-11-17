@@ -652,27 +652,6 @@
       "uuid": "9de2f812-63d4-4d1c-9552-d4b6ee5342f4"
     },
     {
-      "start_time": 571,
-      "end_time": 582,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I have. I am fucking crazy, but I am free. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Monologue"
-        }
-      ],
-      "uuid": "b3c21614-272a-423d-a524-b0dd253774da"
-    },
-    {
       "start_time": 1,
       "end_time": 8,
       "annotation": [
