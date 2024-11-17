@@ -1,27 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 571,
-      "end_time": 582,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I have. I am fucking crazy, but I am free. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Monologue"
-        }
-      ],
-      "uuid": "f06df151-2f78-4365-9cb6-b609d788fa66"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "863b6b12-71d8-449f-8499-eaa92c4fbfbb",
   "source_id": "a174bee1-dff1-4147-99e0-5341c3cc7123"
