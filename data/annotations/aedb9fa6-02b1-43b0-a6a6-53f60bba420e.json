@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 48,
-      "end_time": 58,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Three years down the line of being on an endless world tour and my memories of them were the only things that sustained me. And my only real happy times. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Monologue"
-        }
-      ],
-      "uuid": "d3e944fa-bacf-4120-8e6a-7931bca6e3ce"
-    },
-    {
       "start_time": 68,
       "end_time": 75,
       "annotation": [
