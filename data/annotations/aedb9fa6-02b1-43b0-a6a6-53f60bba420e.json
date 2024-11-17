@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 531,
-      "end_time": 549,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I believe in the country American used to be. I believe in the person I want to become. I believe in the freedom of the open road. And my motto is the same as ever, \"I believe in the kindness of strangers\""
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Monologue"
-        }
-      ],
-      "uuid": "26bb5ad7-44da-4ea1-84a6-d3e636ff2714"
-    },
-    {
       "start_time": 550,
       "end_time": 557,
       "annotation": [
