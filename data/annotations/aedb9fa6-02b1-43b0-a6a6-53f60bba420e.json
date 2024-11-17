@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 517,
-      "end_time": 520,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Except to make our lives into a work of art. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Monologue"
-        }
-      ],
-      "uuid": "5df6845b-1964-4586-941a-9f7871066d08"
-    },
-    {
       "start_time": 521,
       "end_time": 530,
       "annotation": [
