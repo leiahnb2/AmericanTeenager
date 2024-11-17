@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 226,
-      "end_time": 240,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I've been out on that open road. But you can be my full-time daddy, white and gold."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Song"
-        }
-      ],
-      "uuid": "8706c327-b370-48ca-ab79-6ee7f7ced900"
-    },
-    {
       "start_time": 245,
       "end_time": 259,
       "annotation": [
