@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 497,
-      "end_time": 516,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Every night I used to pray that I'd find my people. And finally I did. On the open road, we had nothing to lose, nothing to gain, nothing we desired anymore "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Monologue"
-        }
-      ],
-      "uuid": "682ccc4d-528b-44ba-b0da-835318b27cbf"
-    },
-    {
       "start_time": 517,
       "end_time": 520,
       "annotation": [
