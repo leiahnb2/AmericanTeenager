@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "a174bee1-dff1-4147-99e0-5341c3cc7123": {
+      "label": "Ride Music Video",
+      "is_offline": false,
+      "file_url": "https://www.youtube.com/watch?v=Py_-3di1yx0",
+      "duration": 609
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Video",
+  "label": "Ride Music Video",
+  "created_at": "2024-11-17T15:52:54.654Z",
+  "created_by": "leiahnb2",
+  "updated_at": "2024-11-17T15:52:54.654Z",
+  "updated_by": "leiahnb2"
+}

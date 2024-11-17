@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-11-17T15:52:54.873Z",
+  "created_by": "leiahnb2",
+  "title": "Ride Music Video",
+  "slug": "ride-music-video",
+  "updated_at": "2024-11-17T15:52:54.873Z",
+  "updated_by": "leiahnb2",
+  "parent": "b8e120b6-ed65-41d7-a13e-29038f5a7fbd",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "863b6b12-71d8-449f-8499-eaa92c4fbfbb"
+  }
+}
