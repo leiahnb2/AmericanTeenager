@@ -8,8 +8,8 @@
   "project": {
     "github_org": "leiahnb2",
     "is_private": false,
-    "title": "American Teenager - Ethel Cain",
-    "description": "American Teenager Music Video ",
+    "title": "Ride - Lana Del Rey",
+    "description": "Ride Music Video w/ monologue\n",
     "language": "en",
     "slug": "AmericanTeenager",
     "creator": "leiahnb2",
@@ -22,6 +22,8 @@
       "tags": []
     },
     "created_at": "2024-11-17T15:41:31.358Z",
-    "updated_at": "2024-11-17T15:51:34.837Z"
-  }
+    "updated_at": "2024-11-17T15:52:03.430Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
 }
