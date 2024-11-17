@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 41,
-      "end_time": 47,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "At night I fell asleep with visions of myself dancing and laughing and crying with them."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Monologue"
-        }
-      ],
-      "uuid": "ad810c37-3a7d-422e-9006-3355086efec5"
-    },
-    {
       "start_time": 48,
       "end_time": 58,
       "annotation": [
