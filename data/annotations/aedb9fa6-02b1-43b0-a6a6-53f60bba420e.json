@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 357,
-      "end_time": 377,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Don't leave me now (don't leave me now), Don't say goodbye (don't say goodbye), Don't turn around (don't turn around), Leave me high and dry (leave me high and dry)"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Song"
-        }
-      ],
-      "uuid": "ffb0b9bf-b458-4ceb-b764-408789b82ed7"
-    },
-    {
       "start_time": 379,
       "end_time": 398,
       "annotation": [
