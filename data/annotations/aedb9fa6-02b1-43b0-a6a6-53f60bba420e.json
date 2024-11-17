@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 9,
-      "end_time": 35,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Panning of Lana Del Rey swinging from a tire swing with her hair blowing"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Monologue"
-        }
-      ],
-      "uuid": "874be6d6-0b10-4684-88f2-8d5c2b51615d"
-    },
-    {
       "start_time": 36,
       "end_time": 40,
       "annotation": [
