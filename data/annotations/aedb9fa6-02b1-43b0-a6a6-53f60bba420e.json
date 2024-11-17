@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 36,
-      "end_time": 40,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I was in the winter of my life. And the men I met along the road were my only summer."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Monologue"
-        }
-      ],
-      "uuid": "cd4e80cd-5a09-47af-bc85-036ee75e4a7f"
-    },
-    {
       "start_time": 41,
       "end_time": 47,
       "annotation": [
