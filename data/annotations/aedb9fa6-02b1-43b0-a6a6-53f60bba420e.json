@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 550,
-      "end_time": 557,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "And when I'm at war with myself, I ride. I just ride. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Monologue"
-        }
-      ],
-      "uuid": "70f9f5ff-d62d-4559-ade4-c025ddd13750"
-    },
-    {
       "start_time": 560,
       "end_time": 570,
       "annotation": [
