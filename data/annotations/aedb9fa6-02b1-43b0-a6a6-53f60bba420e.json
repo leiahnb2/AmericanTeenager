@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 560,
-      "end_time": 570,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Who are you? Are you in touch with all of your darkest fantasies? Have you created a life for yourself where you can experience them?"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Monologue"
-        }
-      ],
-      "uuid": "e7adf542-b6b9-4d6e-a086-758bafc64e00"
-    },
-    {
       "start_time": 571,
       "end_time": 582,
       "annotation": [
