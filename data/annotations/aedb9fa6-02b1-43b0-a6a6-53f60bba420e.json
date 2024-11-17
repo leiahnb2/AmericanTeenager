@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 245,
-      "end_time": 259,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Singing blues has been gettin' old. But you can be my full-time baby, hot or cold. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Song"
-        }
-      ],
-      "uuid": "ef4aca94-0138-4b1e-a81d-368054ca884f"
-    },
-    {
       "start_time": 260,
       "end_time": 281,
       "annotation": [
