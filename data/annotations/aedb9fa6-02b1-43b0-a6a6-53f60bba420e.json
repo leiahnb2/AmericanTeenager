@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 521,
-      "end_time": 530,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Live fast. Die young. Be wild. And have fun."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Monologue"
-        }
-      ],
-      "uuid": "59c02b23-b1ed-4884-8405-e6d6926b77d1"
-    },
-    {
       "start_time": 531,
       "end_time": 549,
       "annotation": [
