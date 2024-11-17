@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 1,
-      "end_time": 8,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"RIDE\" letters fade into a black screen"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Film Direction"
-        }
-      ],
-      "uuid": "441b253e-83e7-4a48-a7da-c7cedd3a18f5"
-    },
-    {
       "start_time": 9,
       "end_time": 35,
       "annotation": [
