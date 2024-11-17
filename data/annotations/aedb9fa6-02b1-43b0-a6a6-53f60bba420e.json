@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 399,
-      "end_time": 419,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I just ride, just ride. I just ride, I just ride."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Song"
-        }
-      ],
-      "uuid": "ecea2a6d-10a7-4cb5-b41b-7480dca2fcd3"
-    },
-    {
       "start_time": 420,
       "end_time": 441,
       "annotation": [
