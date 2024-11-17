@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 68,
-      "end_time": 75,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I was a singer, not a very popular one. I once had dreams of becoming a beautiful poet."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Monologue"
-        }
-      ],
-      "uuid": "07c3bb7a-759e-4d29-9a7f-51b189ac3c97"
-    },
-    {
       "start_time": 76,
       "end_time": 101,
       "annotation": [
