@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 260,
-      "end_time": 281,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Don't break me down (don't break me down), I've been traveling too long (I been traveling too long), I been tryin' too hard (I been tryin' too hard), With one pretty song (with one pretty song)"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Song"
-        }
-      ],
-      "uuid": "d7b745d7-f257-43a0-a6c6-cc385a536628"
-    },
-    {
       "start_time": 283,
       "end_time": 300,
       "annotation": [
