@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 379,
-      "end_time": 398,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I hear the birds on the summer breeze, I drive fast. I am alone at midnight. Been trying hard not to get into trouble, but I-I've got a war in my mind."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Song"
-        }
-      ],
-      "uuid": "d9f779b4-9f93-4d3f-a72d-0fa67e00ae90"
-    },
-    {
       "start_time": 399,
       "end_time": 419,
       "annotation": [
