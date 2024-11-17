@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 108,
-      "end_time": 128,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "When the people I used to know found out what I had been doing, how I had been living, they asked me why, but there's no use in talking to people who have a home. They have no idea what it's like to seek safety in other people. For home to be wherever you lie your head. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Monologue"
-        }
-      ],
-      "uuid": "bad1228c-e259-486a-8a53-b4c6dfd353d9"
-    },
-    {
       "start_time": 131,
       "end_time": 153,
       "annotation": [
