@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 206,
-      "end_time": 225,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "[Ooh-ooh-ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh-ooh, ooh-ooh-ooh]"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Song"
-        }
-      ],
-      "uuid": "f67e20aa-2135-4208-859e-70e313bb7a07"
-    },
-    {
       "start_time": 226,
       "end_time": 240,
       "annotation": [
