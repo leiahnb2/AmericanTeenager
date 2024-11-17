@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 420,
-      "end_time": 441,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "I'm tired of feeling like I'm fucking crazy. I'm tired of driving 'til I see stars in my eyes. It's all I've got to keep myself sane, baby. So I just ride, I just ride."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Song"
-        }
-      ],
-      "uuid": "c81f3e90-4773-4629-833f-a63562f24f56"
-    },
-    {
       "start_time": 442,
       "end_time": 459,
       "annotation": [
