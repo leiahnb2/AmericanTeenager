@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 76,
-      "end_time": 101,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "But, upon an unfortunate series of events, saw those dreams dashed and divided like a million stars in the night sky. That I wished on over and over again, sparkling and broken. But I didn't really mind because I knew that it takes getting everything you ever wanted and then losing it to know what true freedom is."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Monologue"
-        }
-      ],
-      "uuid": "4de5420c-698a-4914-b6d4-61e7fd732007"
-    },
-    {
       "start_time": 108,
       "end_time": 128,
       "annotation": [
