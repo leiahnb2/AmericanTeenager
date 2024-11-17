@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 164,
-      "end_time": 179,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Because I was born to be the other woman. Who belonged to no one. Who belonged to everyone. Who had nothing. Who wanted everything."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Monologue"
-        }
-      ],
-      "uuid": "4f5fb872-38b4-46e8-8e42-07dc920d93de"
-    },
-    {
       "start_time": 180,
       "end_time": 195,
       "annotation": [
