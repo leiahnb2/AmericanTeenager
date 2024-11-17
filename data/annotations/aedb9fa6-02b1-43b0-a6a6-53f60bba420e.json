@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 323,
-      "end_time": 355,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Dying young and playing hard. That's the way my father made his life and art. Drink all day and we talk 'til dark. That's the way the road dogs do it, light 'til dark"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Song"
-        }
-      ],
-      "uuid": "f2c05dfa-a5d2-48a0-a654-3a822bbc8f11"
-    },
-    {
       "start_time": 357,
       "end_time": 377,
       "annotation": [
