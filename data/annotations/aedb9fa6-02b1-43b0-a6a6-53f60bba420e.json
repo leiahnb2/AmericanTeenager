@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 180,
-      "end_time": 195,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "With a fire for every experience and an obession for freedom that terrified me to the point that I couldn't even talk about it. And pushed me to a nomadic point of madness that both dazzled and dizzied me. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Monologue"
-        }
-      ],
-      "uuid": "c1dda827-62cb-485f-9181-f31f62121068"
-    },
-    {
       "start_time": 206,
       "end_time": 225,
       "annotation": [
