@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 156,
-      "end_time": 161,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "And if I said I didn't plan for it to turn out this way I'd be lying."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Category",
-          "tag": "Monologue"
-        }
-      ],
-      "uuid": "a4aad762-8fb8-4df9-9a80-ca8473a17b51"
-    },
-    {
       "start_time": 164,
       "end_time": 179,
       "annotation": [
